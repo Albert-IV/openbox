@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name "MCU_RaspberryPi_and_Boards")(type "Legacy")(uri "C:/Users/WhoAmI/Desktop/keyboards/projects/openbox/libraries/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
+  (lib (name "Pi Pico")(type "KiCad")(uri "${KIPRJMOD}/../libraries/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
 )
