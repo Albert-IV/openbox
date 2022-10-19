@@ -748,7 +748,7 @@
     (uuid 3c4412bc-b78d-459f-9f44-573a3673fb1a)
     (property "Reference" "START1" (id 0) (at 54.61 153.67 0))
     (property "Value" "SW_SPST" (id 1) (at 54.61 156.21 0))
-    (property "Footprint" "keyswitches.pretty:Kailh_socket_PG1350" (id 2) (at 54.61 160.02 0)
+    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm" (id 2) (at 54.61 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 54.61 160.02 0)
@@ -763,7 +763,7 @@
     (uuid 3f368872-dbe5-48d5-b1bb-c08d1f5e0dd2)
     (property "Reference" "HOME1" (id 0) (at 80.01 153.67 0))
     (property "Value" "SW_SPST" (id 1) (at 80.01 156.21 0))
-    (property "Footprint" "keyswitches.pretty:Kailh_socket_PG1350" (id 2) (at 80.01 160.02 0)
+    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm" (id 2) (at 80.01 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 80.01 160.02 0)
@@ -793,7 +793,7 @@
     (uuid 542d0816-e5c3-4b0c-9fe6-a8befec1abb6)
     (property "Reference" "CAPTURE1" (id 0) (at 109.22 153.67 0))
     (property "Value" "SW_SPST" (id 1) (at 109.22 156.21 0))
-    (property "Footprint" "keyswitches.pretty:Kailh_socket_PG1350" (id 2) (at 109.22 160.02 0)
+    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm" (id 2) (at 109.22 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 109.22 160.02 0)
@@ -954,7 +954,7 @@
     (uuid c40dde26-fffd-4a43-a9b1-f178e1e494f3)
     (property "Reference" "SELECT1" (id 0) (at 29.21 153.67 0))
     (property "Value" "SW_SPST" (id 1) (at 29.21 156.21 0))
-    (property "Footprint" "keyswitches.pretty:Kailh_socket_PG1350" (id 2) (at 29.21 160.02 0)
+    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm" (id 2) (at 29.21 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 29.21 160.02 0)
@@ -984,7 +984,7 @@
     (uuid f1b2b416-be79-4848-8079-c1cc5017a182)
     (property "Reference" "L3" (id 0) (at 29.21 172.72 0))
     (property "Value" "SW_SPST" (id 1) (at 29.21 175.26 0))
-    (property "Footprint" "keyswitches.pretty:Kailh_socket_PG1350" (id 2) (at 29.21 179.07 0)
+    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm" (id 2) (at 29.21 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 29.21 179.07 0)
@@ -999,7 +999,7 @@
     (uuid f8df1ab9-c821-41ea-baed-1980e5d9f217)
     (property "Reference" "R3" (id 0) (at 54.61 172.72 0))
     (property "Value" "SW_SPST" (id 1) (at 54.61 175.26 0))
-    (property "Footprint" "keyswitches.pretty:Kailh_socket_PG1350" (id 2) (at 54.61 179.07 0)
+    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm" (id 2) (at 54.61 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 54.61 179.07 0)
@@ -1015,13 +1015,13 @@
 
   (symbol_instances
     (path "/542d0816-e5c3-4b0c-9fe6-a8befec1abb6"
-      (reference "CAPTURE1") (unit 1) (value "SW_SPST") (footprint "keyswitches.pretty:Kailh_socket_PG1350")
+      (reference "CAPTURE1") (unit 1) (value "SW_SPST") (footprint "Button_Switch_THT:SW_PUSH_6mm")
     )
     (path "/95df881d-f66e-40ba-bb34-b870660a1b3b"
       (reference "DOWN1") (unit 1) (value "SW_SPST") (footprint "keyswitches.pretty:Kailh_socket_PG1350")
     )
     (path "/3f368872-dbe5-48d5-b1bb-c08d1f5e0dd2"
-      (reference "HOME1") (unit 1) (value "SW_SPST") (footprint "keyswitches.pretty:Kailh_socket_PG1350")
+      (reference "HOME1") (unit 1) (value "SW_SPST") (footprint "Button_Switch_THT:SW_PUSH_6mm")
     )
     (path "/736c80fe-01fb-4783-a2be-9e16fccbf781"
       (reference "K1") (unit 1) (value "SW_SPST") (footprint "keyswitches.pretty:Kailh_socket_PG1350")
@@ -1036,7 +1036,7 @@
       (reference "K4") (unit 1) (value "SW_SPST") (footprint "keyswitches.pretty:Kailh_socket_PG1350")
     )
     (path "/f1b2b416-be79-4848-8079-c1cc5017a182"
-      (reference "L3") (unit 1) (value "SW_SPST") (footprint "keyswitches.pretty:Kailh_socket_PG1350")
+      (reference "L3") (unit 1) (value "SW_SPST") (footprint "Button_Switch_THT:SW_PUSH_6mm")
     )
     (path "/8c2504d2-1b97-4d06-946f-3cb4a9d80e8a"
       (reference "LEFT1") (unit 1) (value "SW_SPST") (footprint "keyswitches.pretty:Kailh_socket_PG1350")
@@ -1054,16 +1054,16 @@
       (reference "P4") (unit 1) (value "SW_SPST") (footprint "keyswitches.pretty:Kailh_socket_PG1350")
     )
     (path "/f8df1ab9-c821-41ea-baed-1980e5d9f217"
-      (reference "R3") (unit 1) (value "SW_SPST") (footprint "keyswitches.pretty:Kailh_socket_PG1350")
+      (reference "R3") (unit 1) (value "SW_SPST") (footprint "Button_Switch_THT:SW_PUSH_6mm")
     )
     (path "/6087dd73-6174-4d62-9d84-8dd5c28de338"
       (reference "RIGHT1") (unit 1) (value "SW_SPST") (footprint "keyswitches.pretty:Kailh_socket_PG1350")
     )
     (path "/c40dde26-fffd-4a43-a9b1-f178e1e494f3"
-      (reference "SELECT1") (unit 1) (value "SW_SPST") (footprint "keyswitches.pretty:Kailh_socket_PG1350")
+      (reference "SELECT1") (unit 1) (value "SW_SPST") (footprint "Button_Switch_THT:SW_PUSH_6mm")
     )
     (path "/3c4412bc-b78d-459f-9f44-573a3673fb1a"
-      (reference "START1") (unit 1) (value "SW_SPST") (footprint "keyswitches.pretty:Kailh_socket_PG1350")
+      (reference "START1") (unit 1) (value "SW_SPST") (footprint "Button_Switch_THT:SW_PUSH_6mm")
     )
     (path "/b7eb2cfe-700a-4d22-b46a-0c15d5da00dc"
       (reference "U1") (unit 1) (value "Pico") (footprint "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH")
